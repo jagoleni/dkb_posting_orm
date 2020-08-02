@@ -1,4 +1,4 @@
-# dkb_posting_orm
+# DKB Postings CSV export to SQLite
 Create a sqlite DB from your DKB banking export csv
 
 ## Installation
